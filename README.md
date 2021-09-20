@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A-H-Mansoury
+- 👋 Hi, I’m @A-H-Mansoury.
 - 👀 I’m interested in python, kivy, java, javafx, machinelearning, math,...
-- 🌱 I’m currently learning machine learing, deeplearning
-- 💞️ I’m trying to gain experiance and learn
+- 🌱 I’m currently learning machine-learning, deeplearning.
+- 💞️ I’m trying to gain experiance and learn.
